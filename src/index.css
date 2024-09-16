@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url('https://www.behance.net/gallery/76009313/League-Of-Legends-Background-Art');
+
+  /* background-image: url('https://www.behance.net/gallery/76009313/League-Of-Legends-Background-Art
+'); */
+  background-attachment: fixed;
+  text-align: center;
+  background-size: 100%
+}
